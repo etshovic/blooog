@@ -1,0 +1,12 @@
+posts table :-
+id - title - body
+Category
+Comments
+like - dislike Ajax
+Users Roles (Admin - Editor - Users)
+Statistics
+Settings
+
+1 in 1 => php artisan make:migration create_posts_table --create=posts
+1 in 1 => php artisan make:model Posts
+2 in 1 => php artisan make:model Posts -m (create both model and table)
