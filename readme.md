@@ -1,4 +1,4 @@
-<h1> About Bloggy </h1> 
+<h1> information about Blooog (made by just LARAVEL and some JQUERY) </h1> 
 Admin email : <b>etsh@me.com</b> <br> 
 Admin password : <b>111111111</b>
 
