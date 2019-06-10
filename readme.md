@@ -1,4 +1,6 @@
-<h1> information about Blooog (made by just LARAVEL and some JQUERY) </h1> 
+<h1> information about Blooog <br>
+    (made by just LARAVEL and some JQUERY) 
+</h1> 
 Admin email : <b>etsh@me.com</b> <br> 
 Admin password : <b>111111111</b>
 
